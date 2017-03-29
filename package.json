@@ -1,0 +1,38 @@
+{
+  "name": "require-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.26.1",
+    "expose-loader": "^0.7.3",
+    "extract-text-webpack-plugin": "^2.0.0-rc.3",
+    "file-loader": "^0.10.1",
+    "gulp": "^3.9.1",
+    "import-glob-loader": "^1.1.0",
+    "jshint": "^2.9.4",
+    "jshint-loader": "^0.8.4",
+    "loader-utils": "^1.0.4",
+    "node-sass": "^4.5.0",
+    "rtlbootstrap": "^4.0.0-alpha.7",
+    "sass-loader": "^6.0.2",
+    "style-loader": "^0.13.1",
+    "uglify-loader": "^1.4.0",
+    "url-loader": "^0.5.8",
+    "webpack": "^2.2.1",
+    "webpack-rtl-plugin": "^1.5.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "jquery": "^3.1.1",
+    "rtl-ltr-prefix-loader": "^1.0.0",
+    "rtlcss-loader": "^1.0.2",
+    "swiper": "^3.4.1",
+    "tether": "^1.4.0"
+  }
+}
